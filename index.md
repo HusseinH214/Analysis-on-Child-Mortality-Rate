@@ -24,7 +24,18 @@ rates and see if any countries had any correlations.Some of the subplots came ou
 <iframe src="Category1.html" width="300%" height="500" style="border:none;">
 Your browser does not support iframes.
 </iframe>
-
+---
+<iframe src="Category2.html" width="300%" height="500" style="border:none;">
+Your browser does not support iframes.
+</iframe>
+---
+<iframe src="Category3.html" width="300%" height="500" style="border:none;">
+Your browser does not support iframes.
+</iframe>
+---
+<iframe src="povertyrates.html" width="300%" height="500" style="border:none;">
+Your browser does not support iframes.
+</iframe>
 
 
 The way I actually viewed the cause of death subplot and the subplot for the poverty rates was through the use of monitors so I can see them side by side. Some issues I couldn’t really solve with the
