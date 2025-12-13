@@ -22,28 +22,10 @@ for comparison. The idea was to compare the categorized causes of death subplots
 rates and see if any countries had any correlations.Some of the subplots came out like:
 
 
-<div style="margin-left: 0; padding-left: 0;">
-  <div style="text-align: left;">
-    <iframe src="Category1.html" width="49%" height="500" style="border:none; display: inline-block;">
-      Your browser does not support iframes.
-    </iframe>
-    
-    <iframe src="Category2.html" width="49%" height="500" style="border:none; display: inline-block;">
-      Your browser does not support iframes.
-    </iframe>
-  </div>
-  
-  <div style="text-align: left;">
-    <iframe src="Category3.html" width="100%" height="500" style="border:none; display: block;">
-      Your browser does not support iframes.
-    </iframe>
-  </div>
-  
-  <div style="text-align: left;">
-    <iframe src="povertyrates.html" width="50%" height="500" style="border:none; display: block;">
-      Your browser does not support iframes.
-    </iframe>
-  </div>
+<div style="margin-left: -2em; margin-right: -2em;">
+<iframe src="povertyrates.html" width="100%" height="500" style="border:none; display: block;">
+Your browser does not support iframes.
+</iframe>
 </div>
 
 The way I actually viewed the cause of death subplot and the subplot for the poverty rates was through the use of monitors so I can see them side by side. Some issues I couldn’t really solve with the
