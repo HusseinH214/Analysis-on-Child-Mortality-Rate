@@ -21,21 +21,34 @@ traces using a for loop to avoid adding them individually but had trouble and ev
 for comparison. The idea was to compare the categorized causes of death subplots to the extreme poverty 
 rates and see if any countries had any correlations.Some of the subplots came out like:
 
-<iframe src="Category1.html" width="50%" height="500" style="border:none;">
-Your browser does not support iframes.
-</iframe>
----
-<iframe src="Category2.html" width="50%" height="500" style="border:none;">
-Your browser does not support iframes.
-</iframe>
----
-<iframe src="Category3.html" width="100%" height="500" style="border:none;">
-Your browser does not support iframes.
-</iframe>
----
-<iframe src="povertyrates.html" width="50%" height="500" style="border:none;">
-Your browser does not support iframes.
-</iframe>
+
+<div style="max-width: 100%; overflow-x: hidden;">
+  <div style="float: left; width: 50%;">
+    <iframe src="Category1.html" width="100%" height="500" style="border:none;">
+      Your browser does not support iframes.
+    </iframe>
+  </div>
+  
+  <div style="float: left; width: 50%;">
+    <iframe src="Category2.html" width="100%" height="500" style="border:none;">
+      Your browser does not support iframes.
+    </iframe>
+  </div>
+  
+  <div style="clear: both;"></div>
+  
+  <div style="width: 100%;">
+    <iframe src="Category3.html" width="100%" height="500" style="border:none;">
+      Your browser does not support iframes.
+    </iframe>
+  </div>
+  
+  <div style="width: 50%;">
+    <iframe src="povertyrates.html" width="100%" height="500" style="border:none;">
+      Your browser does not support iframes.
+    </iframe>
+  </div>
+</div>
 
 
 The way I actually viewed the cause of death subplot and the subplot for the poverty rates was through the use of monitors so I can see them side by side. Some issues I couldn’t really solve with the
