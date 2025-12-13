@@ -21,11 +21,11 @@ traces using a for loop to avoid adding them individually but had trouble and ev
 for comparison. The idea was to compare the categorized causes of death subplots to the extreme poverty 
 rates and see if any countries had any correlations.Some of the subplots came out like:
 
-<iframe src="Category1.html" width="100%" height="500" style="border:none;">
+<iframe src="Category1.html" width="50%" height="500" style="border:none;">
 Your browser does not support iframes.
 </iframe>
 ---
-<iframe src="Category2.html" width="100%" height="500" style="border:none;">
+<iframe src="Category2.html" width="50%" height="500" style="border:none;">
 Your browser does not support iframes.
 </iframe>
 ---
@@ -33,7 +33,7 @@ Your browser does not support iframes.
 Your browser does not support iframes.
 </iframe>
 ---
-<iframe src="povertyrates.html" width="100%" height="500" style="border:none;">
+<iframe src="povertyrates.html" width="50%" height="500" style="border:none;">
 Your browser does not support iframes.
 </iframe>
 
