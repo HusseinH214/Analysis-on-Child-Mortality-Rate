@@ -1,5 +1,7 @@
 - For this project I was partnered with Serena Li
 - ()
+
+
 ###Part II of My Report:
 For finding a connection between extreme poverty rates and child mortality causes I first started with loading the data into a colab with the idea to merge them. Before I could, the dataset containing
 the extreme poverty rates had a lot of missing data that I needed to figure out what to do with. I decided to filter past the year 1950 and then drop any missing data from the extreme poverty column.
