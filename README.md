@@ -1,9 +1,11 @@
 - For this project I was partnered with Serena Li
-- ()
+- The link to the projects code can be found [here](https://github.com/HusseinH214/Analysis-on-Child-Mortality-Rate/blob/main/Final_Project.ipynb)
 
 
 ###Part II of My Report:
-For finding a connection between extreme poverty rates and child mortality causes I first started with loading the data into a colab with the idea to merge them. Before I could, the dataset containing
+
+For finding a connection between extreme poverty rates and child mortality causes I first started with loading the data into a colab with the idea to merge 
+them. Before I could, the dataset containing
 the extreme poverty rates had a lot of missing data that I needed to figure out what to do with. I decided to filter past the year 1950 and then drop any missing data from the extreme poverty column.
 Next I removed any entries that were duplicates or unneeded. The second dataset containing information on causes of child mortality was completely intact, but due to a limit on exporting I was only able
 to get the year up to 2001. With both datasets cleaned I decided to merge the two.
