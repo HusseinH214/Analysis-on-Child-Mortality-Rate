@@ -27,15 +27,21 @@ rates and see if any countries had any correlations.Some of the subplots came ou
   </iframe>
 </div>
 
+---
+
 <div style="width: 100%; overflow-x: auto;">
   <iframe src="Category2.html" width="1200" height="300" style="border:none; min-width: 100%;">
   </iframe>
 </div>
 
+---
+
 <div style="width: 100%; overflow-x: auto;">
   <iframe src="Category3.html" width="1200" height="300" style="border:none; min-width: 100%;">
   </iframe>
 </div>
+
+---
 
 <div style="width: 100%; overflow-x: auto;">
   <iframe src="povertyrates.html" width="1200" height="300" style="border:none; min-width: 100%;">
