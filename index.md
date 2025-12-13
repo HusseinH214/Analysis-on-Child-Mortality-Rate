@@ -22,45 +22,34 @@ for comparison. The idea was to compare the categorized causes of death subplots
 rates and see if any countries had any correlations.Some of the subplots came out like:
 
 
-<div style="margin: 0; padding: 0; max-width: 100%; overflow: hidden;">
-  <iframe 
-    src="Category1.html" 
-    width="100%" 
-    height="500" 
-    style="border:none; display: block; margin: 0; padding: 0;">
-    Your browser does not support iframes.
+<div style="position:relative; padding-top:85%;">
+  <iframe
+    src="Category1.html"
+    style="
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      border:none;
+    ">
   </iframe>
 </div>
 
-<div style="margin: 0; padding: 0; max-width: 100%; overflow: hidden;">
-  <iframe 
-    src="Category2.html" 
-    width="100%" 
-    height="500" 
-    style="border:none; display: block; margin: 0; padding: 0;">
-    Your browser does not support iframes.
+<div style="position:relative; padding-top:85%;">
+  <iframe
+    src="Category2.html"
+    style="
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      border:none;
+    ">
   </iframe>
 </div>
 
-<div style="margin: 0; padding: 0; max-width: 100%; overflow: hidden;">
-  <iframe 
-    src="Category3.html" 
-    width="100%" 
-    height="500" 
-    style="border:none; display: block; margin: 0; padding: 0;">
-    Your browser does not support iframes.
-  </iframe>
-</div>
-
-<div style="margin: 0; padding: 0; max-width: 100%; overflow: hidden;">
-  <iframe 
-    src="povertyrates.html" 
-    width="100%" 
-    height="500" 
-    style="border:none; display: block; margin: 0; padding: 0;">
-    Your browser does not support iframes.
-  </iframe>
-</div>
 
 The way I actually viewed the cause of death subplot and the subplot for the poverty rates was through the use of monitors so I can see them side by side. Some issues I couldn’t really solve with the
 United Kingdom’s poverty rate having 0’s where the value just drops and because of the way the time frames line up most of the extreme poverty data past 2000 didn’t line up with the causes of death. 
