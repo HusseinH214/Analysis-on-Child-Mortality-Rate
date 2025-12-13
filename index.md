@@ -23,25 +23,25 @@ rates and see if any countries had any correlations.Some of the subplots came ou
 
 
 <div style="margin-left: -2em; margin-right: -2em;">
-<iframe src="Category1.html" width="100%" height="500" style="border:none; display: block;">
+<iframe src="Category1.html" width="100%" height="500" style="border:none; display: block;" scrolling="yes">
 Your browser does not support iframes.
 </iframe>
 </div>
 
 <div style="margin-left: -2em; margin-right: -2em;">
-<iframe src="Category2.html" width="100%" height="500" style="border:none; display: block;">
+<iframe src="Category2.html" width="100%" height="500" style="border:none; display: block;" scrolling="yes">
 Your browser does not support iframes.
 </iframe>
 </div>
 
 <div style="margin-left: -2em; margin-right: -2em;">
-<iframe src="Category3.html" width="100%" height="500" style="border:none; display: block;">
+<iframe src="Category3.html" width="100%" height="500" style="border:none; display: block;" scrolling="yes">
 Your browser does not support iframes.
 </iframe>
 </div>
 
 <div style="margin-left: -2em; margin-right: -2em;">
-<iframe src="povertyrates.html" width="100%" height="500" style="border:none; display: block;">
+<iframe src="povertyrates.html" width="100%" height="500" style="border:none; display: block;" scrolling="yes">
 Your browser does not support iframes.
 </iframe>
 </div>
