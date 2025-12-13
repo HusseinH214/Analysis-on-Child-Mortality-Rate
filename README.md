@@ -34,6 +34,7 @@ Your browser does not support iframes.
 Your browser does not support iframes.
 </iframe>
 
+
 The way I actually viewed the cause of death subplot and the subplot for the poverty rates was through the use of monitors so I can see them side by side. Some issues I couldn’t really solve with the
 United Kingdom’s poverty rate having 0’s where the value just drops and because of the way the time frames line up most of the extreme poverty data past 2000 didn’t line up with the causes of death. 
 This has to do with the way the cause of deaths dataframe was exported.
